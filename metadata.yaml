@@ -1,0 +1,30 @@
+_repo: Blood-Brothers--A-Medic-s-Sketch-Book_8423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobs, Eugene C.
+    gutenberg_agent_id: '2734'
+    url: http://www.gutenberg.org/2009/agents/2734
+  editor:
+    agent_name: Rohlfing, Sam
+    gutenberg_agent_id: '2735'
+    url: http://www.gutenberg.org/2009/agents/2735
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8423'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'D731'
+- !lcsh 'Jacobs, Eugene C.'
+- !lcsh 'World War, 1939-1945 -- Personal narratives, American'
+- !lcsh 'World War, 1939-1945 -- Prisoners and prisons, Japanese'
+- !lcsh 'United States. Army -- Officers -- Biography'
+- GITenberg
+title: 'Blood Brothers: A Medic''s Sketch Book'
+url: http://www.gutenberg.org/ebooks/8423
